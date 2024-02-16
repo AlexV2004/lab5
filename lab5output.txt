@@ -1,0 +1,23 @@
+Script started on 2024-02-16 15:02:22-05:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="79" LINES="19"]
+[?2004havano@odd17:~/Desktop/2400/Labs/lab5$ ./a.outg++ -Wall prog1.cc[11P./a.outg++ -Wall prog1.cc
+[?2004l[?2004havano@odd17:~/Desktop/2400/Labs/lab5$ g++ -Wall prog1.cc[11P./a.out
+[?2004lEnter the highest of the day: 
+62
+Enter the lowest of the day: 
+34
+Enter the highest of the day: 
+75
+Enter the lowest of the day: 
+41
+Enter the highest of the day: 
+58
+Enter the lowest of the day: 
+29
+Enter the highest of the day: 
+-100
+Highest Temperature: 75
+Lowest Temperature: 34
+[?2004havano@odd17:~/Desktop/2400/Labs/lab5$ exit 0
+[?2004lexit
+
+Script done on 2024-02-16 15:02:50-05:00 [COMMAND_EXIT_CODE="0"]
